@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Faculty_Leave_Management">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Faculty_Leave_Management-master/out/artifacts/Faculty_Leave_Management_jar/Faculty_Leave_Management.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
